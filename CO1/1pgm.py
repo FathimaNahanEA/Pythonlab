@@ -1,0 +1,12 @@
+n1=int(input("enter first number"))
+n2=int(input("enter second number"))
+n3=int(input("enter third number"))
+n4=int(input("enter fourth number"))
+n5=int(input("enter fifth number"))
+n6=int(input("enter sixth number"))
+n7=int(input("enter seventh number"))
+n8=int(input("enter eighth number"))
+n9=int(input("enter ninth number"))
+n10=int(input("enter tenth number"))
+sum=n1+n2+n3+n4+n5+n6+n7+n8+n9+n10
+print("sum=",sum)
